@@ -31,14 +31,5 @@ python manage.py seed_demo_data
 python manage.py runserver
 ```
 
-Open `http://127.0.0.1:8000/` in the browser.
+Open https://tripplannerwebsite-yvkh.onrender.com/
 
-## Admin Login
-
-Create an admin user with:
-
-```powershell
-python manage.py createsuperuser
-```
-
-Then visit `http://127.0.0.1:8000/admin/`.
